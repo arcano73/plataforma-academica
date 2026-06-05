@@ -15,3 +15,7 @@ Proyecto académico desarrollado para practicar el flujo de trabajo colaborativo
 ## Descripción
 
 Este proyecto contiene una estructura básica de una plataforma académica sencilla para fines educativos en la asigantura Ingeniería de SoftWare III.
+
+## Estado del proyecto
+
+Proyecto en fase inicial de desarrollo académico.
